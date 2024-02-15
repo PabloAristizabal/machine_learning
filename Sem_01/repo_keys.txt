@@ -1,1 +1,1 @@
-GIT_KEY=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
+GIT_KEY=xxxxxxxxxxxxxxxx
